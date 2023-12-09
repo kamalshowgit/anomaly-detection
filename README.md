@@ -28,6 +28,3 @@ After the grid search, the model is retrained using the best hyperparameters. Th
 
 ![Anomaly Prediction](visualization.png)
 
-Figure 1. Synthetically Generated Data
-
-Figure 2. Predicted anomaly by the model
